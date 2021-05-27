@@ -1,25 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import Io from 'socket.io-client'
+export default function App() {
+  const socket = Io(
+    'https://us-central1-pacdocv2-api.cloudfunctions.net/orders',
+  )
+  socket.on('broadcast', (msg) => {
+    console.log('broadCast', msg)
+  })
+  socket.on('newPing', (msg) => {
+    console.log('newPing', 'Someone is trying to ping')
+  })
 
-function App() {
+  const ping = () => {
+    console.log('sent ping')
+    socket.emit('ping', { msg: 'I want to test' })
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1>Socket Demo</h1>
+      <button onClick={ping}>Ping</button>
     </div>
-  );
+  )
 }
-
-export default App;
