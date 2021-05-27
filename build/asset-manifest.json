@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/diliptarkhala/githostdemo/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/diliptarkhala/githostdemo/static/js/main.71988c5c.chunk.js",
+    "main.js.map": "/diliptarkhala/githostdemo/static/js/main.71988c5c.chunk.js.map",
+    "runtime-main.js": "/diliptarkhala/githostdemo/static/js/runtime-main.375089de.js",
+    "runtime-main.js.map": "/diliptarkhala/githostdemo/static/js/runtime-main.375089de.js.map",
+    "static/js/2.e909dfab.chunk.js": "/diliptarkhala/githostdemo/static/js/2.e909dfab.chunk.js",
+    "static/js/2.e909dfab.chunk.js.map": "/diliptarkhala/githostdemo/static/js/2.e909dfab.chunk.js.map",
+    "static/js/3.c5aa4fd8.chunk.js": "/diliptarkhala/githostdemo/static/js/3.c5aa4fd8.chunk.js",
+    "static/js/3.c5aa4fd8.chunk.js.map": "/diliptarkhala/githostdemo/static/js/3.c5aa4fd8.chunk.js.map",
+    "index.html": "/diliptarkhala/githostdemo/index.html",
+    "static/css/main.2ae47eeb.chunk.css.map": "/diliptarkhala/githostdemo/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.e909dfab.chunk.js.LICENSE.txt": "/diliptarkhala/githostdemo/static/js/2.e909dfab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.375089de.js",
+    "static/js/2.e909dfab.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.71988c5c.chunk.js"
+  ]
+}
