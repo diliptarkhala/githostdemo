@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/diliptarkhala/githostdemo/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/diliptarkhala/githostdemo/static/js/main.71988c5c.chunk.js",
-    "main.js.map": "/diliptarkhala/githostdemo/static/js/main.71988c5c.chunk.js.map",
-    "runtime-main.js": "/diliptarkhala/githostdemo/static/js/runtime-main.375089de.js",
-    "runtime-main.js.map": "/diliptarkhala/githostdemo/static/js/runtime-main.375089de.js.map",
-    "static/js/2.e909dfab.chunk.js": "/diliptarkhala/githostdemo/static/js/2.e909dfab.chunk.js",
-    "static/js/2.e909dfab.chunk.js.map": "/diliptarkhala/githostdemo/static/js/2.e909dfab.chunk.js.map",
-    "static/js/3.c5aa4fd8.chunk.js": "/diliptarkhala/githostdemo/static/js/3.c5aa4fd8.chunk.js",
-    "static/js/3.c5aa4fd8.chunk.js.map": "/diliptarkhala/githostdemo/static/js/3.c5aa4fd8.chunk.js.map",
-    "index.html": "/diliptarkhala/githostdemo/index.html",
-    "static/css/main.2ae47eeb.chunk.css.map": "/diliptarkhala/githostdemo/static/css/main.2ae47eeb.chunk.css.map",
-    "static/js/2.e909dfab.chunk.js.LICENSE.txt": "/diliptarkhala/githostdemo/static/js/2.e909dfab.chunk.js.LICENSE.txt"
+    "main.css": "/githostdemo/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/githostdemo/static/js/main.117d3a68.chunk.js",
+    "main.js.map": "/githostdemo/static/js/main.117d3a68.chunk.js.map",
+    "runtime-main.js": "/githostdemo/static/js/runtime-main.2b10e4b1.js",
+    "runtime-main.js.map": "/githostdemo/static/js/runtime-main.2b10e4b1.js.map",
+    "static/js/2.923f43f0.chunk.js": "/githostdemo/static/js/2.923f43f0.chunk.js",
+    "static/js/2.923f43f0.chunk.js.map": "/githostdemo/static/js/2.923f43f0.chunk.js.map",
+    "static/js/3.c5aa4fd8.chunk.js": "/githostdemo/static/js/3.c5aa4fd8.chunk.js",
+    "static/js/3.c5aa4fd8.chunk.js.map": "/githostdemo/static/js/3.c5aa4fd8.chunk.js.map",
+    "index.html": "/githostdemo/index.html",
+    "static/css/main.2ae47eeb.chunk.css.map": "/githostdemo/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.923f43f0.chunk.js.LICENSE.txt": "/githostdemo/static/js/2.923f43f0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.375089de.js",
-    "static/js/2.e909dfab.chunk.js",
+    "static/js/runtime-main.2b10e4b1.js",
+    "static/js/2.923f43f0.chunk.js",
     "static/css/main.2ae47eeb.chunk.css",
-    "static/js/main.71988c5c.chunk.js"
+    "static/js/main.117d3a68.chunk.js"
   ]
 }

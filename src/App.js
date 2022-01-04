@@ -2,7 +2,8 @@ import React from 'react'
 import Io from 'socket.io-client'
 export default function App() {
   const socket = Io(
-    'https://us-central1-pacdocv2-api.cloudfunctions.net/orders',
+    // 'https://us-central1-pacdocv2-api.cloudfunctions.net/orders',
+    'http://localhost:8080',
   )
   socket.on('broadcast', (msg) => {
     console.log('broadCast', msg)
